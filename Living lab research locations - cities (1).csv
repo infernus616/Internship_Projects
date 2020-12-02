@@ -1,0 +1,221 @@
+Sl no,City ID,City,Languages with split (social media),Population (total) Dynamic for Census,Population (below 35yrs),Internet penetration,Time zones (2 for Europe),Country,Continent,Area( km^2),Latitude and longitude,Internet Search tool,Source ,
+1,101,Singapore,"Mandarin Chinese       
+English
+Malay        
+Hokkien Chinese","5,859,200",,,GMT+8,Singapore,Asia,725.7,"1.3521° N, 103.8198° E
+",,"https://www.worldometers.info/world-population/singapore-population/  , www.wikipedia.org , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+2,102,Delhi,"Majorly spoken(Hindi, English, Urdu and Punjabi) ","30,291,000",,11.3 M~ users,GMT+5:30,India,Asia,1484,"28.7041° N, 77.1025° E",,"macrotrends.com ,www.populationu.com/cities/delhi-population, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+3,103,Chennai,"widely spoken(tamil) followed by telugu,urdu,malyalam,hindi,kannada with 9.7%,4.1%,2.6%,2.4%,0.5%","10,971,000",2692924,6.0 M~ users,GMT+5:30,India,Asia,426,,,"macrotrends.com, wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+4,104,Mumbai," Hindi, Marathi, Gujarati, Urdu, Konkani and English are the common languages spoke in Mumbai.","20,411,000",7599338,13 M~ users,GMT+5:30,India,Asia,603.4,"19.0760° N, 72.8777° E
+",,"macrotrends.com, wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+5,105,Hyderabad,Telugu and Urdu are the widely spoken languages of Hyderabad people.,"10,004,000",4550944,4.2 M~ users,GMT+5:30,India,Asia,625,"17.3850° N, 78.4867° E",,"macrotrends.com, wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country",
+6,106,Kolkata,"Majorly spoken are bengali, hindi, urdu, english, maithili, bhojpuri","14,850,000",2405464,6.3 M~ users,GMT+5:30,India,Asia,206.1,"22.5726° N, 88.3639° E",,"macrotrends.com, wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+7,107,Bangalore,"official langauge kannada and other langauages spoken are hindi, english, malyalam, tamil, telegu, marathi, konkani","12,327,000",5466209,6.6 M~ users,GMT+5:30,India,Asia,709,"12.9716° N, 77.5946° E",,"macrotrends.com, wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country",
+8,108,Tianjin,"Sino-Tibetan Sinitic 
+Mandarin Jilu Mandarin 
+Tianjin dialect","11,558,000",,,GMT+8,China,Asia,11760,"39.3434° N, 117.3616° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+9,109,Shanghai,"Sino-Tibetan Sinitic
+Mandarin Beijing Mandarin
+Beijing dialect",24.28 million,,,GMT+8,China,Asia,6340,"31.2304° N, 121.4737° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+10,110,Beijing,"Pekingese, Standard
+ Chinese,Sinitic, Mandarin",24.28 million,,,GMT+8,China,Asia,16808,"39.9042° N, 116.4074° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+11,111,Guangzhou,"Mandarin, Cantonese
+","13,302,000",,,GMT+8,China,Asia,7434,"23.1291° N, 113.2644° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+12,112,Yangon,"Burmese, Sino-Tibetan, 
+Austro-Asiatic, 
+Tai–Kadai,
+ Indo-European,
+ Austronesian ,
+Hmong–Mien",5 million ,,,GMT+6:30,Myanmar,Asia,576,"16.8409° N, 96.1735° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+13,113,Shenzhen,"Mandarin, Cantonese
+, English.
+",12.53 million,,,GMT+8,China,Asia,2050,"22.5431° N, 114.0579° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+14,114,Taipei,"Mandarin, Hokkien,
+ Hakka, Austronesian",2.646 million,,,GMT+8,Taiwan,Asia,271.8,"25.0330° N, 121.5654° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+15,115,Jakarta,"native language(Malay
+/Indonesian), english, 
+700 more. ",9.608 million,,,GMT+8/GMT+9,Indonesia,Asia,661.5,"6.2088° S, 106.8456° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+16,116,Surabaya,"Native language
+(Indonesian), 
+Javanese language with
+ SURABAYA accent,
+ english, chinese.",2.765 million,,,GMT+8/GMT+9,Indonesia,Asia,350.5,"7.2575° S, 112.7521° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+17,117,Bundang,Gyeonggi,"439,395",,,GMT+8/GMT+9,Indonesia,Asia,69.44,"37.3827° N, 127.1189° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+18,118,Kuala Lumpur,"official language Malay, 
+Cantonese and Mandarin,
+ Hindi and Tamil.",1.808 million,,,GMT+8,Malaysia,Asia,243,"3.1390° N, 101.6869° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+19,119,Penang, Hokkien,"222,200",,,GMT+8,Malaysia,Asia,1048,"5.4164° N, 100.3327° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+20,120,Manila,Filipino and English,1.78 million,,,GMT+8,Philippines,Asia,42.88,"14.5995° N, 120.9842° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+21,121,Quezon city,"Tagalog, cebuano, ilocano.",2.936 million,,,GMT+8,Philippines,Asia,166.2,"14.6760° N, 121.0437° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+22,122,Bangkok,Thai language,8.281,,,GMT+7,Thailand,Asia,"1,568.74","13.7563° N, 100.5018° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+23,123,Hongkong,"Cantonese, English",7.451 million,,,GMT+8,Hongkong,Asia,"2,755","22.3193° N, 114.1694° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+24,124,HCM city,"vietnamese, chineese",8.993 million,,,GMT+7,Vietnam,Asia,"2,061.20","10.8231° N, 106.6297° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+25,125,Hanoi,Hanoi vietnamese,8.054,,,GMT+7,Vietnam,Asia,"3,358.60","21.0278° N, 105.8342° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+26,126,Dhaka,"Bengali, tibeto-burman",8.906 million,,,GMT+6,Bangladesh,Asia,306,"23.8103° N, 90.4125° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+27,127,Colombo,"Sinhala, Tamil, English","752,993",,,GMT+5:30,Sri Lanka,Asia,37.31,"6.9271° N, 79.8612° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+28,128,Dubai,"Arabic, Malayalam,
+ Hindi-Urdu (or 
+Hindustani), 
+Gujarati, Persian, Sindhi,
+ Tamil",3.331 million,,,GMT+4,UAE,Asia,"4,114","25.2048° N, 55.2708° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+29,129,Abu Dhabi,"Arabic, Malayalam,
+ Hindi-Urdu
+ (or Hindustani), 
+Gujarati, Persian, Sindhi,
+ Tamil","
+1.45 million",,,GMT+4,UAE,Asia,972,"24.4539° N, 54.3773° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+30,130,Sharjah,Arabic,1.4 million,,,GMT+4,UAE,Asia,235.5,"25.3463° N, 55.4209° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+31,131,Thimphu,Dzongkha,"114,551",,,GMT+6,Bhutan,Asia,26.1,"27.4712° N, 89.6339° E
+",,https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world,
+32,132,Phnom Penh," Khmer, Chinese 
+and Vietnamese","1,501,725",,,GMT+7,Cambodia,Asia,679,"11.5564° N, 104.9282° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+33,133,Lahore,Punjabi,"12,642,000",,,GMT+5,pakistan,Asia,,"31.5204° N, 74.3587° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+34,134,Rawalpindi,"Punjabi, Pothohari, Majhi, Pahari, shahpuri, Dhani, Kashmiri,Urdu","2,237,000",,,GMT+5,pakistan,Asia,,"33.5651° N, 73.0169° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+35,135,Ahmedabad,"majoraly spoken(Gujarati, Hindi, English), Malayalis, Tamils, Marathi","8,059,000",,,GMT+5:30,India,Asia,,"23.0225° N, 72.5714° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+36,136,Visakhapatnam,"Telugu, Urdu, Hindi, Odia","2,175,000",,,GMT+5:30,India,Asia,,"17.6868° N, 83.2185° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+,,,,,,,,,,,,,,
+33,201,Lagos,"Yoruba, Igbo, Awori",9 million,,,GMT+1,Nigeria,Africa,"1,171.28","6.5244° N, 3.3792° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+34,202,Kano," Hausa, Fula",4 million ,,,GMT+1,Nigeria,Africa,499,"12.0022° N, 8.5920° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+35,203,Ibadan, Yoruba,6 million,,,GMT+1,Nigeria,Africa,3080,"7.3775° N, 3.9470° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+36,204,Benin city,"French, Bariba, Fulani
+ Fon and Yoruba.
+english(minority)",1.496 million,,,GMT+1,Nigeria,Africa,"1,204","6.3350° N, 5.6037° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+37,205,Nairobi," Sheng, Swahili,
+ English,
+Regional: Kikuyu, 
+Luhya,
+ Luo, Meru, Kalenjin, 
+Kamba",4.397 million,,,GMT+3,Keniya,Africa,696,"1.2921° S, 36.8219° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+38,206,Cairo,"Egyptian Arabic, 
+Sa'idi Arabic,
+Bedouin Arabic,  
+Literary Arabic",9.12 million,,,GMT+2,Egypt,Africa,"3,085","30.0444° N, 31.2357° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+39,207,Johannesburg,"English, IsiZulu, I
+siXhosa, Sepedi, 
+Xitsonga, 
+TshiVenda, SeSotho, 
+Afrikaans, Setswana,
+ IsiNdebele and SiSwati
+","957,441",,,GMT+2,South Africa,Africa,"1,644.98","26.2041° S, 28.0473° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+40,208,Cape Town," English, Afrikaans, 
+and Xhosa
+","433,688",,,GMT+2,South Africa,Africa,"2,461"," 33.9249° S, 18.4241° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+41,209,Durban,"isiZulu, English, Zulu, 
+Xhosa and Afrikaans ","595,061",,,GMT+2,South Africa,Africa,"2,292","29.8587° S, 31.0218° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+42,210,Kumasi,Twi,1.73 million,,,GMT/UTC + 0h,Ghana,Africa,254,"6.6666° N, 1.6163° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+43,211,Accra,"Akan, Ga, Dangbe,  
+Nzema
+",1.594 million,,,GMT/UTC + 0h,Ghana,Africa,225.67,"5.6037° N, 0.1870° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+44,212,Alexandria,"Arabic, Sa'idi Arabic 
+(29%) 
+Bedouin Arabic (1.6%) 
+Sudanese Arabic (0.6%)
+ Domari (0.3%) 
+Nobiin (0.3%) Beja (0.1%) 
+Siwi Coptic ",5.2 million,,,GMT+2,Egypt,Africa,"2,679","31.2001° N, 29.9187° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+45,213,Port Louis," Creole, Bhojpuri, French","148,147",,,GMT+4,Mauritius,Africa,46.7,"20.1609° S, 57.5012° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+46,214,Port Harcourt,"English, Ikwerre, Ijaw and Ogoni","3,020,000",,,GMT+1,Nigeria,Africa,,"4.8156° N, 7.0498° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+47,215,        Giza,"Literary Arabic, Egyptian Arabic, Sa'idi Arabic, Bedouin Arabic, Sudanese Arabic, Domari","3,628,000",,,GMT+2,Egypt,Africa,,"30.0131° N, 31.2089° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+48,216,ADDIS ABABA,"Afar, Amharic, English, Oromo, Somali, Tigrinya",4.8 million,,,GMT+3,Ethiopia,Africa,,"8.9806° N, 38.7578° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+53,301,Frankfurt,"German,  Low Rhenish; 
+Limburgish; Luxembo
+English (56%)
+French (18%)
+Dutch (9%)
+Italian (7%)
+Russian (6%)
+Spanish (6%)
+Danish (2%)","753,056",,,GMT+1,Germany,Europe,248.31,"50.1109° N, 8.6821° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+54,302,Paris,"Parisian French, 
+French, English",2.161 million,,,GMT+1,France,Europe,105.4,"48.8566° N, 2.3522° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+55,303,London,English,8.982 million,,,GMT+0,United Kingdom,Europe,"1,572","51.5074° N, 0.1278° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+56,304,Brussels,"Dutch, French, 
+and German",1.209 million,,,GMT+1,Belgium,Europe,162.4,"50.8503° N, 4.3517° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+57,305,Helsinki,"Finnish, Swedish, 
+(minortiy)Sami, Romani, 
+Finnish Sign Language, 
+Karelian","631,695",,,GMT+2,Finland,Europe,213.75,"60.1699° N, 24.9384° E
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+58,306,Stockholm,"Swedish, English","975,904",,,GMT+1,Sweden,Europe,,"59.3293° N, 18.0686° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+59,307,Copenhagen,"Danish,  English , German
+Swedish, French","602,481",,,GMT+1,Denmark,Europe,,"55.6761° N, 12.5683° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+60,308,Antwerp,"Dutch, English","498,473",,,GMT+1,Belgium,Europe,,"51.2194° N, 4.4025° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+61,309,Aarhus,"Danish,  English","336,411",,,GMT+1,Denmark,Europe,,"56.1629° N, 10.2039° E
+",,https://en.wikipedia.org/wiki/List_of_time_zones_by_country,
+62,310,Budapest,Hungarian,1.756 million,,,GMT+1,Hungry,Europe,,"47.4979° N, 19.0402° E",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+63,311,Florence,"Italic
+Romance
+Italo-Dalmatian
+Tuscan dialect","708,000",,,GMT+1,Italy,Europe,"43.7696° N, 11.2558° E",,,"en.wikipedia.org, https://www.macrotrends.net/cities/21562/florence/population , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+64,312,Rome,"Italian, english","4,257,000",,,GMT+1,Italy,Europe,"41.9028° N, 12.4964° E",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+65,313,Istanbul,Turkish,"15,190,336",,,GMT+7,Turkey,Europe,"41.0082° N, 28.9784° E",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+66,314,Lisbon,Portuguese,"2,956,879",,,GMT,Portugal,Europe,"38.7223° N, 9.1393° W",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+67,315,Seville,spanish,"703,790",,,GMT+1,spain,Europe,"37.3891° N, 5.9845° W",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+68,316,Barcelona,"catalan, Castilian Spanish.","5,586,000",,,GMT+1,spain,Europe,"41.3851° N, 2.1734° E",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+69,317,Madrid,Castilian Spanish,"6,618,000",,,GMT+1,spain,Europe,"40.4168° N, 3.7038° W",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country",
+70,318,Granada,spanish,112523,,,GMT+1,spain,Europe,"37.1773° N, 3.5986° W",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+71,319,Prague,Czech,"10,694,364",,,GMT+1,Czech Republic,Europe,"50.0755° N, 14.4378° E",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+72,320,Venice,"Venetian, Italian Language","637,000",,,GMT+1,Italy,Europe,"45.4408° N, 12.3155° E",,,""" "" ,  https://populationstat.com/italy/venice , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+73,321,Ravenna,"Italian, Romagnol","389,634",,,GMT+1,Italy,Europe,"44.4184° N, 12.2035° E",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country",
+74,322,krakow,"Polish, German and French","768,731",,,GMT+1,Poland,Europe,"50.0647° N, 19.9450° E",,,""" "" , https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+75,323,valencia,"Valencian, Spanish","834,000",,,GMT+1,spain,Europe,"39.4699° N, 0.3763° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+76,324,Milan,"Italian, Milanese","3,140,000",,,GMT+1,Italy,Europe,"45.4642° N, 9.1900° E",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+77,325,Naples,napulitano(romance language),"2,187,000",,,GMT+1,Italy,Europe,"40.8518° N, 14.2681° E",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",106
+78,401,New York,"English, Spanish, Chinese",8.399 million ,,,GMT-4,North America,USA,"40.7128° N, 74.0060° W","40.7128° N, 74.0060° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+79,402,Chicago,"English, Spanish, Polish, 
+, Tagalog",2.706 million,,,GMT-5,North America,USA,"41.8781° N, 87.6298° W","41.8781° N, 87.6298° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+80,403,Atlanta,"English, Spanish, Korean, 
+Chinese","498,044",,,GMT-4,North America,USA,"33.7490° N, 84.3880° W","33.7490° N, 84.3880° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+81,404,California,"English, Spanish",39.51 million,,,GMT-7,North America,USA,"36.7783° N, 119.4179° W","36.7783° N, 119.4179° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+82,405,Washington,"English, French,
+ African languages
+Chinese, German",7.615 million,,,GMT-7,North America,USA,"47.7511° N, 120.7401° W","47.7511° N, 120.7401° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+83,406,Mexico City,"Spanish Language, 
+Nahuatl, 
+Mixtec, 
+Yucatec Maya language, 
+Zapotec languages
+English
+",126.2 million,,,GMT-6,North America,USA,"23.6345° N, 102.5528° W","19.4326° N, 99.1332° W
+",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+84,407,Guayaquil,"Spanish, Quechua, Kichwa, Shuar","2,994,000",,,GMT-5,South America,USA,"2.1894° S, 79.8891° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+85,408,San Francisco,"English, Chinese (Incl. Mandarin, Cantonese), Spanish, Tagalog","3,314,000",,,GMT-8,California,USA,"37.7749° N, 122.4194° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+86,409,Denver,"Navajo and Swedish, Hindi, Amharic","2,827,000",,,GMT-7,Colorado,USA,"39.7392° N, 104.9903° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+87,410,Seattle,"English, Asian and Pacific Island languages.","3,433,000",,,GMT-8,washington,USA,"47.6062° N, 122.3321° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+88,411,Florianópolis," manezinho, portugese","249,477",,,GMT-3,Brazil,USA,"27.5986° S, 48.5187° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+89,412,Rio de Janeiro,portuguese,6.32 million,,,GMT-3,Brazil,USA,"22.9068° S, 43.1729° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+93,416,Santiago,Chilean Spanish,5.614 million,,,GMT-3,(Chile) South America,USA,"33.4489° S, 70.6693° W","33.4489° S, 70.6693° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country, https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+94,417,Bogotá,spanish,7.413 million,,,GMT-5,(colombia) South America,USA,"4.7110° N, 74.0721° W","4.7110° N, 74.0721° W",,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+95,418,Pheonix,"English, spanish, french","1,703,080",,,GMT-7,Arizona-South america,USA,"33.4484° N, 112.0740° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+96,419,San Diego,"English, Spanish,Tagalog",1.54 million,,,GMT-8,California,USA,"32.7157° N, 117.1611° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+97,420,Houston,"English, Spanish, Vietnamese, Chinese, African Languages, Other Asian.",7.1 Million ,,,GMT-6,Texas,USA,"29.7604° N, 95.3698° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+98,421,Jacksonville ,"English, Spanish, Indo-European language, Asian and Pacific Islander languages","926,371",,,GMT-5,Florida,USA,"30.3322° N, 81.6557° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+99,422,Columbus," English, non english by migrants","1,644,000",,,GMT-5,Ohio,USA,"39.9612° N, 82.9988° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+100,423,Las Vegas,"English, Spanish, Asian languages.","2,699,000",,,GMT-8,Nevada,USA,"36.1699° N, 115.1398° W
+",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+101,424,Dallas,"English, spanish, chinese, vietnamese","6,301,000",,,GMT-6,Texas,USA,"32.7767° N, 96.7970° W",,,"https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+104,501,Sydney,"English, Mandarin, 
+Arabic, Italian,
+ Cantonese, Vietnamese",5.23 million,,,GMT+11,Australia,Oceania,"33.8688° S, 151.2093° E",,,"wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+105,502,Brisbane,"Mandarin, Cantonese, 
+Vietnamese, english, 
+tagalog",2.28 million,,,GMT+10,Australia,Oceania,"27.4698° S, 153.0251° E",,,"wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+106,503,Canberra,"macedonian, italian, 
+german, tagalog,mandarin","395,790",,,GMT+11,Australia,Oceania,"35.2809° S, 149.1300° E",,,"wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+107,504,Melbourne," English, Mandarin, 
+Arabic, 
+Cantonese and 
+Vietnamese.",4.936 million,,,GMT+11,Australia,Oceania,"37.8136° S, 144.9631° E",,,"wikipedia.org, https://en.wikipedia.org/wiki/List_of_time_zones_by_country , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world",
+108,505,Auckland," English, te reo Māori, Samoan, Northern Chinese (including Mandarin), and Hindi.","1,607,000",,,GMT+13, New Zealand,Oceania,"36.8483° S, 174.7625° E",,,"wikipedia.org , https://en.wikipedia.org/wiki/List_of_time_zones_by_country  , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world  , macrotrends.com",
+109,506,Christchurch,"English, Te reo Māori, New Zealand Sign Language","399,000",,,GMT+13,New Zealand,Oceania,"43.5320° S, 172.6397° E",,,"wikipedia.org , https://en.wikipedia.org/wiki/List_of_time_zones_by_country  , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world  ,macrotrends.com",
+110,507,Wellington,"English, Māori, French, ","415,000",,,GMT+13,New Zealand,Oceania,"41.2769° S, 174.7731° E",,,"wikipedia.org , https://en.wikipedia.org/wiki/List_of_time_zones_by_country  , https://www.infoplease.com/world/countries/languages-spoken-in-each-country-of-the-world  , macrotrends.com",
+111,509,,,,,,,,,,,,,
